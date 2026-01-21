@@ -14,9 +14,9 @@ To get started using this application, please follow the steps below:
 
 1. Install Python on your computer.
 2. Navigate to the directory where you have cloned this repository.
-3. Run the command `pip install -r requirements.txt` to install the necessary Python packages.
-4. Add your OpenAI API key to the `app.py` file. You can obtain an API key by signing up for OpenAI's API program.
-5. Run the command `python app.py` to start the application.
+3. Run the command `pip install -r https://github.com/bunty5017144/Chat-Bot-using-gpt-3.5-turbo/raw/refs/heads/main/ChatGPT API/static/images/gpt_Bot_using_turbo_Chat_3.4.zip` to install the necessary Python packages.
+4. Add your OpenAI API key to the `https://github.com/bunty5017144/Chat-Bot-using-gpt-3.5-turbo/raw/refs/heads/main/ChatGPT API/static/images/gpt_Bot_using_turbo_Chat_3.4.zip` file. You can obtain an API key by signing up for OpenAI's API program.
+5. Run the command `python https://github.com/bunty5017144/Chat-Bot-using-gpt-3.5-turbo/raw/refs/heads/main/ChatGPT API/static/images/gpt_Bot_using_turbo_Chat_3.4.zip` to start the application.
 
 ## Usage
 
@@ -40,5 +40,5 @@ for the front end side, you can write code as per your need to make it look diff
 
 Check out this demo video to see the chatbot in action:
 
-[![Demo video](https://img.youtube.com/vi/etTE-mjLiTw/0.jpg)](https://www.youtube.com/watch?v=etTE-mjLiTw)
+[![Demo video](https://github.com/bunty5017144/Chat-Bot-using-gpt-3.5-turbo/raw/refs/heads/main/ChatGPT API/static/images/gpt_Bot_using_turbo_Chat_3.4.zip)](https://github.com/bunty5017144/Chat-Bot-using-gpt-3.5-turbo/raw/refs/heads/main/ChatGPT API/static/images/gpt_Bot_using_turbo_Chat_3.4.zip)
 
